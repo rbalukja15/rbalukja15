@@ -12,6 +12,7 @@ I build products end to end — React/Next.js frontends, Django/Node backends, a
 #### Featured work
 
 - **[tenantiq](https://github.com/rbalukja15/tenantiq)** — Multi-tenant RAG SaaS: per-tenant document Q&A with grounded, cited answers. Django REST · Next.js · pgvector.
+- **[fireplan](https://github.com/rbalukja15/fireplan)** — Supremacy 1914 Combat Calculator. React.js · TypeScript · Progressive Web App · Reverse Engineering/Data Analytics · CI/CD.
 - **[k8s-doctor](https://github.com/rbalukja15/k8s-doctor)** — Read-only Kubernetes health agent: rule engine + LLM explanation, with overlay-drift detection.
 - **[sso-auditor](https://github.com/rbalukja15/sso-auditor)** — OIDC config auditor producing spec-cited findings on PKCE, redirect URIs, and token lifetimes.
 - **[pipelinemd](https://github.com/rbalukja15/pipelinemd)** — GitLab CI/CD failure doctor: deterministic distiller + LLM diagnosis of broken pipelines.
