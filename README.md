@@ -11,11 +11,11 @@ I build products end to end — React/Next.js frontends, Django/Node backends, a
 
 #### Featured work
 
+- **[pipelinemd](https://github.com/rbalukja15/pipelinemd)** — CI failure doctor for GitLab and GitHub Actions: deterministic log distiller + 64 failure signatures, with an optional Claude diagnosis that must cite real log lines. v1.0 on [PyPI](https://pypi.org/project/pipelinemd/) · [live demo](https://rbalukja15.github.io/pipelinemd/).
 - **[tenantiq](https://github.com/rbalukja15/tenantiq)** — Multi-tenant RAG SaaS: per-tenant document Q&A with grounded, cited answers. Django REST · Next.js · pgvector.
 - **[fireplan](https://github.com/rbalukja15/fireplan)** — Supremacy 1914 Combat Calculator. React.js · TypeScript · Progressive Web App · Reverse Engineering/Data Analytics · CI/CD.
 - **[k8s-doctor](https://github.com/rbalukja15/k8s-doctor)** — Read-only Kubernetes health agent: rule engine + LLM explanation, with overlay-drift detection.
 - **[sso-auditor](https://github.com/rbalukja15/sso-auditor)** — OIDC config auditor producing spec-cited findings on PKCE, redirect URIs, and token lifetimes.
-- **[pipelinemd](https://github.com/rbalukja15/pipelinemd)** — GitLab CI/CD failure doctor: deterministic distiller + LLM diagnosis of broken pipelines.
 - **[react-ui-kit](https://github.com/rbalukja15/react-ui-kit)** — MUI 5 design system with reusable components and Storybook docs.
 - **[pwa-cache-kit](https://github.com/rbalukja15/pwa-cache-kit)** — Offline-first three-tier caching library for PWAs with a visual cache inspector.
 
